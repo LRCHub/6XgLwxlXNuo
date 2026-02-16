@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "1234",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2026-02-16T16:58:44.320652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/01_1234_Feist.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1234 Rock N Roll (bonus track)",
+      "artist": "Girlschool",
+      "has_synced": true,
+      "path": "select/02_1234_Rock_N_Roll_(bonus_track)_Girlschool.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1234 - Van She Remix",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/03_1234_-_Van_She_Remix_Feist.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1234 (Van She Technologic Remix)",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/04_1234_(Van_She_Technologic_Remix)_Feist.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1234 1234",
+      "artist": "Streetlight Manifesto",
+      "has_synced": true,
+      "path": "select/05_1234_1234_Streetlight_Manifesto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Scary Pockets feat. Madelyn Grant",
+      "has_synced": true,
+      "path": "select/06_1234_Scary_Pockets_feat._Madelyn_Grant.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Scary Pockets, Madelyn Grant",
+      "has_synced": true,
+      "path": "select/07_1234_Scary_Pockets,_Madelyn_Grant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/08_1234_Feist.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/09_1234_Feist.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1234 (Album Version)",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/10_1234_(Album_Version)_Feist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1234 Dennis Bier",
+      "artist": "Harry Vermeegen",
+      "has_synced": false,
+      "path": "select/11_1234_Dennis_Bier_Harry_Vermeegen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Kevin Morby",
+      "has_synced": true,
+      "path": "select/12_1234_Kevin_Morby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/13_1234_Feist.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Emigrate feat. Benjamin Kowalewicz",
+      "has_synced": true,
+      "path": "select/14_1234_Emigrate_feat._Benjamin_Kowalewicz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Emigrate; Benjamin Kowalewicz",
+      "has_synced": true,
+      "path": "select/15_1234_Emigrate;_Benjamin_Kowalewicz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "1234 1234",
+      "artist": "Catch 22",
+      "has_synced": false,
+      "path": "select/16_1234_1234_Catch_22.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "1234 (feat. Ben Kowalewicz)",
+      "artist": "Emigrate",
+      "has_synced": true,
+      "path": "select/17_1234_(feat._Ben_Kowalewicz)_Emigrate.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "1234",
+      "artist": "Ozomatli",
+      "has_synced": false,
+      "path": "select/18_1234_Ozomatli.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1234",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_01_1234_Kvi_Baba.txt"
+    }
+  ]
+}
